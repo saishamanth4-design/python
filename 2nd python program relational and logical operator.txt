@@ -1,0 +1,10 @@
+#relational and logical operator
+a = int(input("enter first number"))
+b = int(input("enter second number"))
+print((a>2) and (b>=6))
+#logical AND
+print(True and True) #true
+print(False and False) #false
+
+#logical OR
+print(not True) #False

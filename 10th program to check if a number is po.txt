@@ -1,0 +1,7 @@
+#program to check if a number is positive, negative, or zero using if else
+
+num = int(input("enter a number:"))
+if num >=0:
+     print("Non negative number")
+else:
+    print("negative number")
